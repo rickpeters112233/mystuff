@@ -1,0 +1,1 @@
+While auto-py-to-exe has not been renamed, users in the Python community occasionally explore alternative tools for similar purposes. One such tool is auto-py-to-app, which offers a comparable graphical user interface but utilizes cx_Freeze as its backend for freezing
